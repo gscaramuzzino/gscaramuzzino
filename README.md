@@ -2,24 +2,21 @@
 ## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;">, I'm Giuseppe!
 ---
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCV_YnKkwrO1UW6tbASuNaGw?label=Subscribers%20to%20my%20channel&style=social)](https://www.youtube.com/channel/UCV_YnKkwrO1UW6tbASuNaGw?sub_confirmation=1)
-[![Twitter Follow](https://img.shields.io/twitter/follow/GiuseScara?style=social)](https://twitter.com/intent/follow?screen_name=GiuseScara)
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCV_YnKkwrO1UW6tbASuNaGw?label=Views%20on%20my%20channel&style=social)]((https://www.youtube.com/channel/UCV_YnKkwrO1UW6tbASuNaGw?sub_confirmation=1))
 
-## 👨🏻‍💻 &nbsp;About Me
-I’m Giuseppe, Sr. Software Engineer and Content Creator with a decade of experience working internationally in Software Development across various industries. \
-My strong technical abilities and appetite to continuously learn have been the foundations for building my key skills: Java knowledge, Go knowledge, Back end development, Front end development, and Full Stack Development with UX and UI principles.  \
-I like to learn new technologies, programming languages and frameworks to develop new software solutions.
+## 👨‍💻 About Me
 
-✓ 2022: Microsoft Certified: Azure Fundamentals (AZ-900) \
-✓ 2017: Full Stack Web Development Specialization certification with MEAN Stack (Mongo, Express, Angular, NodeJS) \
-✓ 2016: First level of Java certification (Oracle Certification Associate, Java SE 7 Programmer) \
-✓ 2013: MSc in Computer Science (Turin, Italy)
+I’m Giuseppe, a **Principal Software Engineer**, **Cloud Native advocate**, and **content creator** with over a decade of experience building software across Europe in industries like travel, finance, and cybersecurity.
 
-I’m currently working with [Go](https://go.dev/) and [Quarkus](https://quarkus.io/) frameworks. \
-I help developers to get rid of the old Monolith applications and build high-quality CloudNative Microservices with less stress and a lot of fun using Go and Java with my [YouTube](https://www.youtube.com/channel/UCV_YnKkwrO1UW6tbASuNaGw) channel where I share free tutorials.
+I specialize in **backend development**, **platform engineering**, and **modernizing legacy systems**. My stack includes **Java** (Spring Boot, Quarkus, MicroProfile), **Golang**, and cloud-native tools like **Docker**, **Kubernetes**, and **Azure**. I’m particularly passionate about developer productivity, clean architecture, and building platforms that help teams ship better code faster.
 
-💬 &nbsp;Feel free to reach out to me. I will be very happy to help you, teach you and support you with your software development.
+Currently, I’m a Principal Engineer at **Amadeus**, where I lead adoption efforts for the **Amadeus Creation Platform**, an initiative inspired by Internal Developer Platform principles. I also architect and maintain an **Azure-based demo environment** used by our global pre-sales teams. My day-to-day includes prototyping cloud-native services, mentoring developers, and contributing to platform strategy.
 
+Beyond work, I’m committed to **giving back to the dev community**. I run a [YouTube channel](https://www.youtube.com/channel/UCV_YnKkwrO1UW6tbASuNaGw) where I share **hands-on tutorials in Go, Java, and cloud-native development**. I also mentor early-career developers, helping them grow their skills and confidence in backend and cloud technologies.
+
+I believe in **practical, real-world learning**, continuous improvement, and having fun while solving hard problems. Whether it’s exploring a new tool or building a distributed system, I love diving into the “how” and helping others do the same.
+
+Let’s connect: I’m always open to collaboration, mentoring, or just sharing ideas!
 
 ## 🛠️ &nbsp;Tech Stack
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" alt="redhat" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="go" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="intellij" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angularjs" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="50" height="50" /> 
@@ -37,32 +34,16 @@ I help developers to get rid of the old Monolith applications and build high-qua
 &nbsp; &nbsp;[...more YouTube videos](https://youtube.com/GiuseppeScaramuzzino)
 
 ## 💌 &nbsp;Get in touch
-- YouTube: [https://www.youtube.com/GiuseppeScaramuzzino](https://www.youtube.com/GiuseppeScaramuzzino)
-- Linkedin: https://www.linkedin.com/in/gscaramuzzino
-- Twitter: [https://twitter.com/GiuseScara](https://twitter.com/GiuseScara)
-- Personal Website: [https://linktr.ee/giuseppescaramuzzino](https://linktr.ee/giuseppescaramuzzino)
+- YouTube: [youtube.com/GiuseppeScaramuzzino](https://www.youtube.com/GiuseppeScaramuzzino)
+- Linkedin: linkedin.com/in/gscaramuzzino
 - Medium Blog: [https://medium.com/@GiuseppeScaramuzzino](https://medium.com/@GiuseppeScaramuzzino)
-
-## 🧑‍💻 Mentoring & Coaching
-
-📧  Contact me if you find yourself in one of these situations:
-
-- If you are a student or have just graduated and want to start your career as a programmer
-- If you work in another industry and would like to enter the world of programming
-- If you need advice on the career you have undertaken
-
-✍🏻 Don't hesitate to contact me!
 
 ## ⚙️ &nbsp;GitHub Analytics
 <p>
 <a href="https://github.com/gscaramuzzino">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gscaramuzzino&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
 </a>
-</p>
 
-## ⭐️ &nbsp;𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=giuseppescaramuzzino)
 
 <!--
 **GiuseppeScaramuzzino/GiuseppeScaramuzzino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
